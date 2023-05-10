@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/parthamallick313/single-price-grid-component)
-- Live Site URL: [Netlify](single-price-grid-fmio.netlify.app)
+- Live Site URL: [Netlify](https://single-price-grid-fmio.netlify.app)
 
 ## My process
 
